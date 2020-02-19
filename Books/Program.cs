@@ -77,7 +77,7 @@ namespace Books
             //IncreaseSalary(employee2);
             //employee1 = DataStorage.Load("Inigo", "Montoya");
             //Console.WriteLine($"{employee1.GetName()}: {employee1.Salary}");
-            Console.WriteLine("539 (557/1089)");
+            Console.WriteLine("686 (704/1089)");
             
 
             
